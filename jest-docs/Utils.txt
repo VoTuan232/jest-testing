@@ -1,0 +1,2 @@
+# toEqual
+recursively checks every field of an object or array.
